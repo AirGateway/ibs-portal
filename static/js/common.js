@@ -22,7 +22,7 @@ $.signedAjax = function (data) {
             if($logout.length) {
                 $logout.click();
             }  else {
-                location.href = '/';
+                location.href = '/login';
             }
         }
     };
