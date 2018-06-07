@@ -9,6 +9,6 @@ footerlegend: 'Powered by [SITA](https://airgateway.net)'
 account: Account
 jumbotitle: IBS Airlines portal for IATA Hackathon
 viewapis: View Our APIs »
-backgroundimage: /images/bg_pexels.jpg
+backgroundimage: /images/banner-image.jpg
 ---
 
