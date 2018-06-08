@@ -7,7 +7,7 @@ menueditprofile: Edit profile
 menulogout: Log out
 footerlegend: 'Powered by [SITA](https://airgateway.net)'
 account: Account
-jumbotitle: IBS Airlines portal for IATA Hackathon
+jumbotitle: IBS Airlines NDC portal for IATA AIR Hackathon
 viewapis: View Our APIs »
 backgroundimage: /images/banner-image.jpg
 ---
